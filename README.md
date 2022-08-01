@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @valdemirlucas
+- 👍 meu email de contato é valdemir.farias@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentimente a linguagem de JavaScript e Scrath
